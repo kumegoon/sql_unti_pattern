@@ -15,3 +15,5 @@ insert into bugsproducts (bug_id, product_id) values
   ROUND(1+RAND()*90),
   ROUND(1+RAND()*90)
 );
+
+https://deaimobi.com/mbnk-340/
